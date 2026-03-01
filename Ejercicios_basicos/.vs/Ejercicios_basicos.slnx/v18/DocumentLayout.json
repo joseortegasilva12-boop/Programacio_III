@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5B2DD90-863D-487A-A5EF-A8F6AA358B31}|Ejercicios.csproj|c:\\users\\jhono\\documents\\github\\programacio_iii\\ejercicios_basicos\\ejercicios_basicos_a\\perfil_gamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5B2DD90-863D-487A-A5EF-A8F6AA358B31}|Ejercicios.csproj|solutionrelative:ejercicios_basicos_a\\perfil_gamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Menu_Poo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\Menu_Poo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5B2DD90-863D-487A-A5EF-A8F6AA358B31}|Ejercicios.csproj|c:\\users\\jhono\\documents\\github\\programacio_iii\\ejercicios_basicos\\ejercicios_basicos_a\\calculadora_propinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5B2DD90-863D-487A-A5EF-A8F6AA358B31}|Ejercicios.csproj|solutionrelative:ejercicios_basicos_a\\calculadora_propinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Calculadora_propinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\Calculadora_propinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5B2DD90-863D-487A-A5EF-A8F6AA358B31}|Ejercicios.csproj|c:\\users\\jhono\\documents\\github\\programacio_iii\\ejercicios_basicos\\ejercicios_basicos_a\\control_aforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5B2DD90-863D-487A-A5EF-A8F6AA358B31}|Ejercicios.csproj|solutionrelative:ejercicios_basicos_a\\control_aforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5B2DD90-863D-487A-A5EF-A8F6AA358B31}|Ejercicios.csproj|c:\\users\\jhono\\documents\\github\\programacio_iii\\ejercicios_basicos\\ejercicios_basicos_a\\generador_correo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5B2DD90-863D-487A-A5EF-A8F6AA358B31}|Ejercicios.csproj|solutionrelative:ejercicios_basicos_a\\generador_correo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5B2DD90-863D-487A-A5EF-A8F6AA358B31}|Ejercicios.csproj|c:\\users\\jhono\\documents\\github\\programacio_iii\\ejercicios_basicos\\ejercicios_basicos_a\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5B2DD90-863D-487A-A5EF-A8F6AA358B31}|Ejercicios.csproj|solutionrelative:ejercicios_basicos_a\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5B2DD90-863D-487A-A5EF-A8F6AA358B31}|Ejercicios.csproj|c:\\users\\jhono\\documents\\github\\programacio_iii\\ejercicios_basicos\\ejercicios_basicos_a\\semaforo_inteligente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5B2DD90-863D-487A-A5EF-A8F6AA358B31}|Ejercicios.csproj|solutionrelative:ejercicios_basicos_a\\semaforo_inteligente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5B2DD90-863D-487A-A5EF-A8F6AA358B31}|Ejercicios_basicos.csproj|c:\\users\\jhono\\documents\\github\\programacio_iii\\ejercicios_basicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5B2DD90-863D-487A-A5EF-A8F6AA358B31}|Ejercicios_basicos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Generador_Correo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\Generador_Correo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,60 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Semaforo_Inteligente.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Semaforo_Inteligente.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Semaforo_Inteligente.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Semaforo_Inteligente.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\Semaforo_Inteligente.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwA0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T12:47:15.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Menu.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Menu.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Menu.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\Menu.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T12:33:29.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Generador_Correo.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Generador_Correo.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Generador_Correo.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Generador_Correo.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\Generador_Correo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T12:43:36.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Control_Aforo.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Control_Aforo.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Control_Aforo.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Control_Aforo.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\Control_Aforo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwB0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T12:38:56.602Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -112,35 +44,35 @@
               "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Calculadora_propinas.cs",
               "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Calculadora_propinas.cs",
               "RelativeToolTip": "Ejercicios_basicos_A\\Calculadora_propinas.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA4AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T12:36:52.878Z",
+              "WhenOpened": "2026-02-28T16:32:25.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Generador_Correo.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Generador_Correo.cs",
+              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Generador_Correo.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Generador_Correo.cs",
+              "RelativeToolTip": "Ejercicios_basicos_A\\Generador_Correo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T16:32:17.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Perfil_Gamer.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Perfil_Gamer.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Perfil_Gamer.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Perfil_Gamer.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\Perfil_Gamer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Title": "Menu_Poo.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Menu_Poo.cs",
+              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Menu_Poo.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Menu_Poo.cs",
+              "RelativeToolTip": "Ejercicios_basicos_A\\Menu_Poo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T12:24:44.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T12:21:19.118Z",
+              "WhenOpened": "2026-02-28T16:32:03.554Z",
               "EditorCaption": ""
             }
           ]
