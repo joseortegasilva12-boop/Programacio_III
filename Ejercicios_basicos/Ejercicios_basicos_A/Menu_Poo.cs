@@ -11,10 +11,10 @@ namespace EjerciciosPOO
         public virtual void HacerTruco() => Console.WriteLine($"{Nombre} bosteza...");
     }
     class Loro : Mascota {
-        public override void HacerTruco() => Console.WriteLine($"{Nombre} dice: ¡Quiero una galleta! 🦜");
+        public override void HacerTruco() => Console.WriteLine($"{Nombre} dice: ¡Quiero una galleta! ");
     }
     class Gato : Mascota {
-        public override void HacerTruco() => Console.WriteLine($"{Nombre} está amasando pan en la manta. 🐾");
+        public override void HacerTruco() => Console.WriteLine($"{Nombre} está amasando pan en la manta. ");
     }
 
     // 2. Encapsulamiento
@@ -36,11 +36,11 @@ namespace EjerciciosPOO
     interface IReproductor { void Play(); }
     class Cancion : IReproductor { 
         public string T; 
-        public void Play() => Console.WriteLine($"🎵 Reproduciendo canción: {T}"); 
+        public void Play() => Console.WriteLine($" Reproduciendo canción: {T}"); 
     }
     class Podcast : IReproductor { 
         public string T; 
-        public void Play() => Console.WriteLine($"🎙️ Escuchando Podcast: {T}"); 
+        public void Play() => Console.WriteLine($" Escuchando Podcast: {T}"); 
     }
 
     // 4. Estado
