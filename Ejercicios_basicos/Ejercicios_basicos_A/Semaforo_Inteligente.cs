@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*Simulador de Semáforo Inteligente: Pide al usuario que ingrese el color actual del semáforo (Verde, Amarillo, Rojo). 
+ * Si es verde, imprime "Sigue adelante"; si es amarillo, "Prepárate para frenar"; y si es rojo, "¡Distensión!".
+ */
+
 namespace Ejercicios_basicos.Ejercicios_basicos
 {
     internal class Semaforo_Inteligente

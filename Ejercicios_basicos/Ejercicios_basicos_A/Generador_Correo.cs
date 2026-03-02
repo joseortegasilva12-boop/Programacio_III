@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
+ * Generador de Correos Corporativos: Pide al usuario su nombre y apellido. 
+ * El programa debe generar un correo con el formato nombre.apellido@empresa.com(todo en minúsculas).
+ */
+
 namespace Ejercicios_basicos.Ejercicios_basicos
 {
     internal class Generador_Correo

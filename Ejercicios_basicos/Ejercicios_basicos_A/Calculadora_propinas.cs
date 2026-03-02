@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*Calculadora de Propina Solidaria: Pide el total de una cuenta en un restaurante. 
+ * Pregunta qué porcentaje de propina desea dejar (10%, 15% o 20%). 
+ * Si el total con propina supera los $100.000, muestra un mensaje agradeciendo su generosidad
+ */
+
 namespace Ejercicios_basicos.Ejercicios_basicos
 {
     internal class Calculadora_propinas

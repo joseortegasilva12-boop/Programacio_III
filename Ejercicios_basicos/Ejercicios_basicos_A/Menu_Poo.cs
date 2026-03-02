@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace EjerciciosPOO
+namespace EjerciciosPOOEjercicios_basicos.Ejercicios_basicos
 {
     // --- DEFINICIÓN DE CLASES E INTERFACES ---
 

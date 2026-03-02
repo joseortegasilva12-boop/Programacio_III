@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*Control de Aforo en Eventos: Una discoteca tiene un aforo máximo de 50 personas. 
+ * Crea un programa que pregunte cuántas personas quieren entrar. 
+ * Si hay cupo, dale la bienvenida; si no, indícales cuántas personas deben salir para que puedan entrar.
+ */
+
 namespace Ejercicios_basicos.Ejercicios_basicos
 {
     internal class Control_Aforo

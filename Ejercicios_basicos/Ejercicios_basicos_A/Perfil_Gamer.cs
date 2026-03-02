@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
+ * Perfil de Usuario Gamer: Crea un programa que pida al usuario su Nick , 
+ * nivel de experiencia (1-100) y si tiene suscripción Premium (booleano). 
+ * Al final, muestra un mensaje personalizado que le dé la bienvenida a su nivel correspondiente.
+ */
+
 namespace Ejercicios_basicos.Ejercicios_basicos
 {
     internal class Perfil_Gamer
