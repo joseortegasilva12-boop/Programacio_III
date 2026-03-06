@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ejecicios_Poo",
-    "\\Ejercicios_basicos_A"
+    "\\Bilioteca",
+    "\\Bilioteca\\Enums",
+    "\\Bilioteca\\Interfaces",
+    "\\Bilioteca\\Modelos"
   ],
-  "SelectedNode": "\\Ejercicios_basicos_A\\AppMusicaPoo.cs",
+  "SelectedNode": "\\Bilioteca\\Enums\\TipoCaategoria.cs",
   "PreviewInSolutionExplorer": false
 }
