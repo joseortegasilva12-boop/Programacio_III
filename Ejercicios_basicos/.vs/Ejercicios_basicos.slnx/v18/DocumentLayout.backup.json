@@ -3,64 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\AppMusicaPoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\AppMusicaPoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Enums\\TipoCaategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bilioteca\\Enums\\TipoCaategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejecicios_Poo\\Control_Iventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejecicios_Poo\\Control_Iventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Interfaces\\IPrestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bilioteca\\Interfaces\\IPrestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Modelos\\AudioLibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bilioteca\\Modelos\\AudioLibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Menu_Poo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\Menu_Poo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Modelos\\Libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bilioteca\\Modelos\\Libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Perfil_Gamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\Perfil_Gamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Modelos\\MaterialBiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bilioteca\\Modelos\\MaterialBiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejecicios_Poo\\CajeroAutomatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejecicios_Poo\\CajeroAutomatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejecicios_Poo\\SistemasCalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejecicios_Poo\\SistemasCalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Control_Aforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\Control_Aforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Generador_Correo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\Generador_Correo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Semaforo_Inteligente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\Semaforo_Inteligente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Calculadora_propinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\Calculadora_propinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\ControlVehiculosPoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\ControlVehiculosPoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\SistemaLibroPoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\SistemaLibroPoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\SistemasMascotasPOO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\SistemasMascotasPOO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\InventarioTiendaPoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_basicos_A\\InventarioTiendaPoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Modelos\\Revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bilioteca\\Modelos\\Revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,186 +50,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Control_Iventario.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejecicios_Poo\\Control_Iventario.cs",
-              "RelativeDocumentMoniker": "Ejecicios_Poo\\Control_Iventario.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejecicios_Poo\\Control_Iventario.cs",
-              "RelativeToolTip": "Ejecicios_Poo\\Control_Iventario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Revista.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Modelos\\Revista.cs",
+              "RelativeDocumentMoniker": "Bilioteca\\Modelos\\Revista.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Modelos\\Revista.cs",
+              "RelativeToolTip": "Bilioteca\\Modelos\\Revista.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwDEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T05:01:54.825Z",
+              "WhenOpened": "2026-03-06T11:56:07.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CajeroAutomatico.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejecicios_Poo\\CajeroAutomatico.cs",
-              "RelativeDocumentMoniker": "Ejecicios_Poo\\CajeroAutomatico.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejecicios_Poo\\CajeroAutomatico.cs",
-              "RelativeToolTip": "Ejecicios_Poo\\CajeroAutomatico.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGQAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:18:21.351Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Perfil_Gamer.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Perfil_Gamer.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Perfil_Gamer.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Perfil_Gamer.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\Perfil_Gamer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Title": "MaterialBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Modelos\\MaterialBiblioteca.cs",
+              "RelativeDocumentMoniker": "Bilioteca\\Modelos\\MaterialBiblioteca.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Modelos\\MaterialBiblioteca.cs",
+              "RelativeToolTip": "Bilioteca\\Modelos\\MaterialBiblioteca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:02:36.905Z"
+              "WhenOpened": "2026-03-06T11:55:25.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Menu_Poo.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Menu_Poo.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Menu_Poo.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Menu_Poo.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\Menu_Poo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Modelos\\Libro.cs",
+              "RelativeDocumentMoniker": "Bilioteca\\Modelos\\Libro.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Modelos\\Libro.cs",
+              "RelativeToolTip": "Bilioteca\\Modelos\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:02:34.835Z"
+              "WhenOpened": "2026-03-06T11:54:09.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Menu.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Menu.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Menu.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\Menu.cs",
+              "Title": "AudioLibro.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Modelos\\AudioLibro.cs",
+              "RelativeDocumentMoniker": "Bilioteca\\Modelos\\AudioLibro.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Modelos\\AudioLibro.cs",
+              "RelativeToolTip": "Bilioteca\\Modelos\\AudioLibro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:52:04.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPrestable.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Interfaces\\IPrestable.cs",
+              "RelativeDocumentMoniker": "Bilioteca\\Interfaces\\IPrestable.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Interfaces\\IPrestable.cs",
+              "RelativeToolTip": "Bilioteca\\Interfaces\\IPrestable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:02:31.397Z",
+              "WhenOpened": "2026-03-06T11:50:11.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppMusicaPoo.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\AppMusicaPoo.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\AppMusicaPoo.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\AppMusicaPoo.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\AppMusicaPoo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T03:41:46.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SistemasCalificaciones.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejecicios_Poo\\SistemasCalificaciones.cs",
-              "RelativeDocumentMoniker": "Ejecicios_Poo\\SistemasCalificaciones.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejecicios_Poo\\SistemasCalificaciones.cs",
-              "RelativeToolTip": "Ejecicios_Poo\\SistemasCalificaciones.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAD4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T05:20:30.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Generador_Correo.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Generador_Correo.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Generador_Correo.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Generador_Correo.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\Generador_Correo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:01:21.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Control_Aforo.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Control_Aforo.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Control_Aforo.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Control_Aforo.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\Control_Aforo.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:00:21.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Semaforo_Inteligente.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Semaforo_Inteligente.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Semaforo_Inteligente.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Semaforo_Inteligente.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\Semaforo_Inteligente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:03:18.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Calculadora_propinas.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Calculadora_propinas.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\Calculadora_propinas.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\Calculadora_propinas.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\Calculadora_propinas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T03:59:36.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ControlVehiculosPoo.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\ControlVehiculosPoo.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\ControlVehiculosPoo.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\ControlVehiculosPoo.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\ControlVehiculosPoo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T03:56:38.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SistemaLibroPoo.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\SistemaLibroPoo.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\SistemaLibroPoo.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\SistemaLibroPoo.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\SistemaLibroPoo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T03:45:46.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "InventarioTiendaPoo.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\InventarioTiendaPoo.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\InventarioTiendaPoo.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\InventarioTiendaPoo.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\InventarioTiendaPoo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T03:36:52.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SistemasMascotasPOO.cs",
-              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\SistemasMascotasPOO.cs",
-              "RelativeDocumentMoniker": "Ejercicios_basicos_A\\SistemasMascotasPOO.cs",
-              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Ejercicios_basicos_A\\SistemasMascotasPOO.cs",
-              "RelativeToolTip": "Ejercicios_basicos_A\\SistemasMascotasPOO.cs",
+              "Title": "TipoCaategoria.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Enums\\TipoCaategoria.cs",
+              "RelativeDocumentMoniker": "Bilioteca\\Enums\\TipoCaategoria.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Ejercicios_basicos\\Bilioteca\\Enums\\TipoCaategoria.cs",
+              "RelativeToolTip": "Bilioteca\\Enums\\TipoCaategoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T03:29:58.744Z"
+              "WhenOpened": "2026-03-06T11:47:48.278Z",
+              "EditorCaption": ""
             }
           ]
         }

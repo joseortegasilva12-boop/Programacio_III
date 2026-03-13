@@ -5,6 +5,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|c:\\users\\jhono\\documents\\github\\programacio_iii\\concesionariosvehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\modelos\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|solutionrelative:modelos\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\modelos\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|solutionrelative:modelos\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\modelos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|solutionrelative:modelos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|solutionrelative:modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\interfaces\\ivendible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|solutionrelative:interfaces\\ivendible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\enums\\estadovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|solutionrelative:enums\\estadovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\enums\\tipocombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797BA332-2824-486B-B0C2-E3405067C72F}|ConcesionariosVehiculos.csproj|solutionrelative:enums\\tipocombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +42,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\Modelos\\Camion.cs",
+              "RelativeDocumentMoniker": "Modelos\\Camion.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\Modelos\\Camion.cs",
+              "RelativeToolTip": "Modelos\\Camion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:37:27.429Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motocicleta.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\Modelos\\Motocicleta.cs",
+              "RelativeDocumentMoniker": "Modelos\\Motocicleta.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\Modelos\\Motocicleta.cs",
+              "RelativeToolTip": "Modelos\\Motocicleta.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:28:46.685Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\Modelos\\Auto.cs",
+              "RelativeDocumentMoniker": "Modelos\\Auto.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\Modelos\\Auto.cs",
+              "RelativeToolTip": "Modelos\\Auto.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:17:23.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\Modelos\\vehiculo.cs",
+              "RelativeDocumentMoniker": "Modelos\\vehiculo.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\Modelos\\vehiculo.cs",
+              "RelativeToolTip": "Modelos\\vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:05:09.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVendible.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\Interfaces\\IVendible.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IVendible.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\Interfaces\\IVendible.cs",
+              "RelativeToolTip": "Interfaces\\IVendible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:55:01.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstadoVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\enums\\EstadoVehiculo.cs",
+              "RelativeDocumentMoniker": "enums\\EstadoVehiculo.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\enums\\EstadoVehiculo.cs",
+              "RelativeToolTip": "enums\\EstadoVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:50:51.739Z"
             },
             {
               "$type": "Document",
@@ -36,10 +124,22 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T13:38:46.221Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoCombustible.cs",
+              "DocumentMoniker": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\enums\\TipoCombustible.cs",
+              "RelativeDocumentMoniker": "enums\\TipoCombustible.cs",
+              "ToolTip": "C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\ConcesionariosVehiculos\\enums\\TipoCombustible.cs",
+              "RelativeToolTip": "enums\\TipoCombustible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:44:57.632Z"
             }
           ]
         }

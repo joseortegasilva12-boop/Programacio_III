@@ -17,5 +17,6 @@ foreach (var v in inventario)
     v.MostrarSpecifications();
     v.GenerarFacturaVenta();
     Console.WriteLine($"Comisión: {v.CalcularComisionVendedor():C}");
+
     Console.WriteLine("-----------------------------");
 }
