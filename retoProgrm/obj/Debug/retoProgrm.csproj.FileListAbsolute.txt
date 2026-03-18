@@ -1,0 +1,7 @@
+C:\Users\jhono\Documents\GitHub\Programacio_III\retoProgrm\bin\Debug\retoProgrm.exe.config
+C:\Users\jhono\Documents\GitHub\Programacio_III\retoProgrm\bin\Debug\retoProgrm.exe
+C:\Users\jhono\Documents\GitHub\Programacio_III\retoProgrm\bin\Debug\retoProgrm.pdb
+C:\Users\jhono\Documents\GitHub\Programacio_III\retoProgrm\obj\Debug\retoProgrm.csproj.AssemblyReference.cache
+C:\Users\jhono\Documents\GitHub\Programacio_III\retoProgrm\obj\Debug\retoProgrm.csproj.CoreCompileInputs.cache
+C:\Users\jhono\Documents\GitHub\Programacio_III\retoProgrm\obj\Debug\retoProgrm.exe
+C:\Users\jhono\Documents\GitHub\Programacio_III\retoProgrm\obj\Debug\retoProgrm.pdb

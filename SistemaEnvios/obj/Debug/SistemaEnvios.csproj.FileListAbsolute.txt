@@ -1,0 +1,2 @@
+C:\Users\jhono\Documents\GitHub\Programacio_III\SistemaEnvios\obj\Debug\SistemaEnvios.csproj.AssemblyReference.cache
+C:\Users\jhono\Documents\GitHub\Programacio_III\SistemaEnvios\obj\Debug\SistemaEnvios.csproj.CoreCompileInputs.cache
