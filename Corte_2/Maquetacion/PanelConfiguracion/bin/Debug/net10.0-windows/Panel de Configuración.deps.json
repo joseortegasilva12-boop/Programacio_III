@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Panel de Configuración/1.0.0": {
+        "runtime": {
+          "Panel de Configuración.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Panel de Configuración/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

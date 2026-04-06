@@ -1,0 +1,17 @@
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\bin\Debug\net10.0-windows\Panel de Configuración.exe
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\bin\Debug\net10.0-windows\Panel de Configuración.deps.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\bin\Debug\net10.0-windows\Panel de Configuración.runtimeconfig.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\bin\Debug\net10.0-windows\Panel de Configuración.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\bin\Debug\net10.0-windows\Panel de Configuración.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\obj\Debug\net10.0-windows\Panel_de_Configuración.Form1.resources
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\obj\Debug\net10.0-windows\Panel de Configuración.csproj.GenerateResource.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\obj\Debug\net10.0-windows\Panel de Configuración.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\obj\Debug\net10.0-windows\Panel de Configuración.AssemblyInfoInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\obj\Debug\net10.0-windows\Panel de Configuración.AssemblyInfo.cs
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\obj\Debug\net10.0-windows\Panel de Configuración.csproj.CoreCompileInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\obj\Debug\net10.0-windows\Panel de Configuración.sourcelink.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\obj\Debug\net10.0-windows\Panel de Configuración.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\obj\Debug\net10.0-windows\refint\Panel de Configuración.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\obj\Debug\net10.0-windows\Panel de Configuración.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\obj\Debug\net10.0-windows\Panel de Configuración.genruntimeconfig.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Panel de Configuración\obj\Debug\net10.0-windows\ref\Panel de Configuración.dll

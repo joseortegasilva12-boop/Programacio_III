@@ -1,0 +1,18 @@
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\bin\Debug\net10.0-windows\Reproductor musica.exe
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\bin\Debug\net10.0-windows\Reproductor musica.deps.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\bin\Debug\net10.0-windows\Reproductor musica.runtimeconfig.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\bin\Debug\net10.0-windows\Reproductor musica.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\bin\Debug\net10.0-windows\Reproductor musica.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\obj\Debug\net10.0-windows\Reproductor_musica.Form1.resources
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\obj\Debug\net10.0-windows\Reproductor musica.csproj.GenerateResource.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\obj\Debug\net10.0-windows\Reproductor musica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\obj\Debug\net10.0-windows\Reproductor musica.AssemblyInfoInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\obj\Debug\net10.0-windows\Reproductor musica.AssemblyInfo.cs
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\obj\Debug\net10.0-windows\Reproductor musica.csproj.CoreCompileInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\obj\Debug\net10.0-windows\Reproductor musica.sourcelink.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\obj\Debug\net10.0-windows\Reproductor musica.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\obj\Debug\net10.0-windows\refint\Reproductor musica.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\obj\Debug\net10.0-windows\Reproductor musica.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\obj\Debug\net10.0-windows\Reproductor musica.genruntimeconfig.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\obj\Debug\net10.0-windows\ref\Reproductor musica.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Reproductor musica\obj\Debug\net10.0-windows\Reproductor_musica.Properties.Resources.resources
