@@ -1,0 +1,7 @@
+C:\Users\jhono\Documents\GitHub\Programacio_III\parcial_1\bin\Debug\parcial_1.exe.config
+C:\Users\jhono\Documents\GitHub\Programacio_III\parcial_1\bin\Debug\parcial_1.exe
+C:\Users\jhono\Documents\GitHub\Programacio_III\parcial_1\bin\Debug\parcial_1.pdb
+C:\Users\jhono\Documents\GitHub\Programacio_III\parcial_1\obj\Debug\parcial_1.csproj.AssemblyReference.cache
+C:\Users\jhono\Documents\GitHub\Programacio_III\parcial_1\obj\Debug\parcial_1.csproj.CoreCompileInputs.cache
+C:\Users\jhono\Documents\GitHub\Programacio_III\parcial_1\obj\Debug\parcial_1.exe
+C:\Users\jhono\Documents\GitHub\Programacio_III\parcial_1\obj\Debug\parcial_1.pdb

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{E45A3E8B-FA30-4C4A-8A06-7CF7CBBDABFB}|Archivos.csproj|solutionrelative:ejemplos\\runejemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E45A3E8B-FA30-4C4A-8A06-7CF7CBBDABFB}|Archivos.csproj|c:\\users\\jhono\\documents\\github\\programacio_iii\\archivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E45A3E8B-FA30-4C4A-8A06-7CF7CBBDABFB}|Archivos.csproj|C:\\Users\\jhono\\Documents\\GitHub\\Programacio_III\\Archivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E45A3E8B-FA30-4C4A-8A06-7CF7CBBDABFB}|Archivos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:40:52.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:40:52.59Z"
             }
           ]
         }
