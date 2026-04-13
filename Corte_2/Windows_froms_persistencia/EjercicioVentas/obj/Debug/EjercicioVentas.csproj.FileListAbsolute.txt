@@ -1,0 +1,9 @@
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioVentas\bin\Debug\EjercicioVentas.exe.config
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioVentas\bin\Debug\EjercicioVentas.exe
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioVentas\bin\Debug\EjercicioVentas.pdb
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioVentas\obj\Debug\EjercicioVentas.csproj.AssemblyReference.cache
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioVentas\obj\Debug\EjercicioVentas.Properties.Resources.resources
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioVentas\obj\Debug\EjercicioVentas.csproj.GenerateResource.cache
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioVentas\obj\Debug\EjercicioVentas.csproj.CoreCompileInputs.cache
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioVentas\obj\Debug\EjercicioVentas.exe
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioVentas\obj\Debug\EjercicioVentas.pdb
