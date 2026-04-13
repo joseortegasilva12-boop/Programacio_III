@@ -1,0 +1,9 @@
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioEmpleados\bin\Debug\EjercicioEmpleados.exe.config
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioEmpleados\bin\Debug\EjercicioEmpleados.exe
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioEmpleados\bin\Debug\EjercicioEmpleados.pdb
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioEmpleados\obj\Debug\EjercicioEmpleados.csproj.AssemblyReference.cache
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioEmpleados\obj\Debug\EjercicioEmpleados.Properties.Resources.resources
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioEmpleados\obj\Debug\EjercicioEmpleados.csproj.GenerateResource.cache
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioEmpleados\obj\Debug\EjercicioEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioEmpleados\obj\Debug\EjercicioEmpleados.exe
+C:\Users\jhono\Documents\GitHub\Programacio_III\EjercicioEmpleados\obj\Debug\EjercicioEmpleados.pdb
