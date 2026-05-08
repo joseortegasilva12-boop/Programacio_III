@@ -1,0 +1,5 @@
+C:\Users\jhono\Documents\GitHub\Programacio_III\InventarioVideojuegos\app inventario\obj\Debug\app inventario.csproj.AssemblyReference.cache
+C:\Users\jhono\Documents\GitHub\Programacio_III\InventarioVideojuegos\app inventario\obj\Debug\app_inventario.Properties.Resources.resources
+C:\Users\jhono\Documents\GitHub\Programacio_III\InventarioVideojuegos\app inventario\obj\Debug\app_inventario.views.FormInformes.resources
+C:\Users\jhono\Documents\GitHub\Programacio_III\InventarioVideojuegos\app inventario\obj\Debug\app inventario.csproj.GenerateResource.cache
+C:\Users\jhono\Documents\GitHub\Programacio_III\InventarioVideojuegos\app inventario\obj\Debug\app inventario.csproj.CoreCompileInputs.cache
